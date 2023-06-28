@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DSL"]
 	path = DSL
 	url = https://github.com/cran/DSL
-	shallow = true
-	registered = true
 [submodule "fMultivar"]
 	path = fMultivar
 	url = https://github.com/cran/fMultivar
-	shallow = true
-	registered = true
 [submodule "hive"]
 	path = hive
 	url = https://github.com/cran/hive
-	shallow = true
-	registered = true
 [submodule "tm.plugin.dc"]
 	path = tm.plugin.dc
 	url = https://github.com/cran/tm.plugin.dc
-	shallow = true
-	registered = true
